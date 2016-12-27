@@ -43,7 +43,7 @@
 "type":"1",
 "name":"SOI KẾT QUẢ TÍNH SỐ RA MIỀN BẮC",
 "linkappstore":"https://itunes.apple.com/vn/app/soi-ket-qua-tinh-so-ra-cap/id1094931943?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Iconsoikq.png?raw=true",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconsoikq.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq5.png?raw=true",
 "linkdes":"SOI KẾT QUẢ XỔ SỐ MIỀN BẮC - TÍNH TOÁN CON SỐ SẼ RA CHỈ VỚI 1 CLICK - LƯU TRỮ DỮ LIỆU-CẬP NHẬT KẾT QUẢ-SOI CẦU - SOI CON SỐ GAN LÂU NGÀY CHƯA RA ...\nMột số hình ảnh về phần mềm :\n"
 },

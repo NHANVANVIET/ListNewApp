@@ -81,7 +81,7 @@
 },
 {
 "type":"LuậtGiaoThông",
-"name":"LUẬT GIAO THÔNG MỚI NHẤT+THI LẤY KQ",
+"name":"LUẬT GIAO THÔNG MỚI NHẤT 2017",
 "linkappstore":"https://itunes.apple.com/vn/app/luat-giao-thong-moi-nhat-2016/id1145798542?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconluatgt.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt5.png?raw=true",

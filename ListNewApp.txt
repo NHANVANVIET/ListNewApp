@@ -1,13 +1,5 @@
 {"ListNewApp":[
 {
-"type":"XemTiViGame",
-"name":"XEM TIVI+GAME ONLINE+RADIO VOV",
-"linkappstore":"https://itunes.apple.com/vn/app/xem-tivi-truyen-hinh-truc/id1186637420?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconxemtv.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/xemtv1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemtv2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemtv3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemtv4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemtv5.jpg?raw=true",
-"linkdes":"XEM TIVI - VIDEO GAME ONLINE ĐẾ CHẾ , FIFA ONLINE 3 , DOTA 2 , LIÊN MINH HUYỀN THOẠI , PES - VIDEO CLIP HÀI - NGHE RADIO VOV - TẤT CẢ TRONG 1 ỨNG DỤNG CHẤT LƯỢNG KÊNH ỔN ĐỊNH , CẬP NHẬT LIÊN TỤC ! \nMột số hình ảnh về phần mềm :\n"
-},
-{
 "type":"Dạy nấu ăn",
 "name":"DẠY NẤU ĂN - LÀM BÁNH",
 "linkappstore":"https://itunes.apple.com/vn/app/day-nau-lam-banh-cac-mon-ngon/id908613594?mt=8",

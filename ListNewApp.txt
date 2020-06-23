@@ -8,14 +8,6 @@
 "linkdes":"BẠN CẦN MỘT PHẦN MỀM DẠY NẤU ĂN THẬT CHI TIẾT,DẠY NẤU ĂN OFFLINE,CHIA SẺ CÁC MÓN ĂN , BẠN MUỐN TỰ MÌNH TẠO RA MÓN ĂN? PHẦN MỀM DẠY NẤU ĂN, LÀM BÁNH SẼ ĐÁP ỨNG TẤT CẢ ! \nMột số hình ảnh về phần mềm :\n"
 },
 {
-"type":"BáoMớiOnline",
-"name":"ĐỌC BÁO TỔNG HỢP",
-"linkappstore":"https://itunes.apple.com/vn/app/bao-moi-oc-tin-tuc-xem-cap/id1183148567?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondocbao.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/docbao1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/docbao2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/docbao3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/docbao4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/docbao5.png?raw=true",
-"linkdes":"PHẦN MỀM ĐỌC BÁO TIỆN LỢI CÓ TẤT CẢ WEBSITE HOT-ĐỌC TIN TỨC, THỜI SỰ, GIẢI TRÍ ,TIN NÓNG, TEEN, SAO-TIN BÓNG ĐÁ,THỂ THAO,NGHE NHẠC,XEM PHIM-XEM HÀI VL , CƯỜI BỂ BỤNG ... \nMột số hình ảnh về phần mềm :\n"
-},
-{
 "type":"Học TA Lite",
 "name":"HỌC TIẾNG ANH TỐT NHẤT",
 "linkappstore":"https://itunes.apple.com/vn/app/day-hoc-tieng-anh-hay-nhat/id804714551?mt=8",
@@ -48,36 +40,12 @@
 "linkdes":"ỨNG DỤNG NGHE NHẠC HẸN GIỜ NGỦ TỐT NHẤT - TẠO ALBUM NGHE NHẠC YÊU THÍCH - LƯU TRỮ VÀ SỬ DỤNG TẤT CẢ NHẠC TRONG MÁY CUA BẠN - NHIỀU TÍNH NĂNG KHÁC. HÃY TẢI VÀ TRẢI NGHIỆM . \nMột số hình ảnh về phần mềm :\n"
 },
 {
-"type":"TìmĐịaĐiểm",
-"name":"TÌM ĐỊA ĐIỂM NHÀ NGHỈ,ATM,BUS...",
-"linkappstore":"https://itunes.apple.com/vn/app/tim-ia-iem-nha-nghi-tram-xang/id1156344441?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontimnhanghi.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/timnhanghi1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/timnhanghi2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/timnhanghi3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/timnhanghi4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/timnhanghi5.png?raw=true",
-"linkdes":"TÌM KIẾM MỌI THỨ XUNG QUANH BẠN : NHÀ NGHỈ, KHÁCH SẠN, TRẠM XĂNG , QUÁN BAR, CÂY ATM , BỆNH VIỆN, CÔNG VIÊN - TÌM ĐƯỜNG ĐI CHỈ VỚI 1 CLICK - ĐƠN GIẢN - DỄ SỬ DỤNG - HIỆU QUẢ - THÔNG TIN NHANH NHẤT MỌI ĐỊA ĐIỂM YÊU CẦU CỦA BẠN. \nMột số hình ảnh về phần mềm :\n"
-},
-{
 "type":"Xem Bói",
 "name":"XEM BÓI TỔNG HỢP TÌNH YÊU+TỬ VI",
 "linkappstore":"https://itunes.apple.com/vn/app/xem-boi-tong-hop/id867002195?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconxemboi.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi5.png?raw=true",
 "linkdes":"XEM BÓI, XEM TỬ VI ĐỂ BIẾT TRƯỚC TƯƠNG LAI,TRÁNH VẬN HẠN - SỰ NGHIỆP,CÔNG DANH THÀNH HAY BẠI ? - TÌNH YÊU,CUỘC SỐNG GIA ĐÌNH - SINH CON ĐẺ CÁI .  \nMột số hình ảnh về phần mềm :\n"
-},
-{
-"type":"Xem Ngày Tốt",
-"name":"XEM NGÀY TỐT HÔM NAY",
-"linkappstore":"https://itunes.apple.com/vn/app/xem-ngay-tot-cau-tai-cau-loc/id1112496214?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconxemngay.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/xemngay1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemngay2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemngay3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemngay4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemngay5.png?raw=true",
-"linkdes":"XEM NGÀY TỐT, GIỜ TỐT CẦU TÀI, CẦU LỘC , TÌNH DUYÊN - XEM NGÀY TỐT, GIỜ TỐT XUẤT HÀNH, DI CHUYỂN, ĐỘNG THỔ - XEM NGÀY TỐT, GIỜ TỐT KHAI TRƯƠNG, GIAO DỊCH, KÝ HỢP ĐỒNG - XEM NGÀY TỐT, GIỜ TỐT HÔN THÚ, TÌNH YÊU . \nMột số hình ảnh về phần mềm :\n"
-},
-{
-"type":"LuậtGiaoThông",
-"name":"LUẬT GIAO THÔNG MỚI NHẤT 2017",
-"linkappstore":"https://itunes.apple.com/vn/app/luat-giao-thong-moi-nhat-2016/id1145798542?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconluatgt.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/luatgt5.png?raw=true",
-"linkdes":"HỌC LUẬT GIAO THÔNG MỚI NHẤT - VỪA HỌC VỪA CHƠI GAME - THI TRẮC NGHIỆM, LẤY KẾT QUẢ NGAY - HỌC VÀ THI LẤY BẰNG LÁI XE DỄ DÀNG NHẤT CÓ THỂ . \nMột số hình ảnh về phần mềm :\n"
 },
 {
 "type":"Game trí nhớ",

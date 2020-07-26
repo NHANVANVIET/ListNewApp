@@ -50,7 +50,7 @@
 {
 "type":"Game trí nhớ",
 "name":"GAME TRÍ NHỚ-GAME TRÍ TUỆ",
-"linkappstore":"https://itunes.apple.com/vn/app/game-tri-nho-game-tri-tue/id795561283?mt=8",
+"linkappstore":"https://apps.apple.com/vn/app/memory-tap-tap/id824061925",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
 "linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"

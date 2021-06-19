@@ -12,7 +12,7 @@
 "name":"HỌC TIẾNG ANH TỐT NHẤT",
 "linkappstore":"https://itunes.apple.com/vn/app/day-hoc-tieng-anh-hay-nhat/id804714551?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconhocta.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta5.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta11.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta12.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta13.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta14.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta15.png?raw=true",
 "linkdes":"PHẦN MỀM HỌC TIẾNG ANH NGHE, NÓI, VIẾT ĐƯỢC TIẾNG ANH NHANH NHẤT VÀ DỄ NHẤT - KẾT HỢP TỪ ĐIỂN - GAME HỌC TIẾNG ANH - THI TIẾNG ANH. \nMột số hình ảnh về phần mềm :\n"
 },
 {

@@ -40,14 +40,6 @@
 "linkdes":"ỨNG DỤNG NGHE NHẠC HẸN GIỜ NGỦ TỐT NHẤT - TẠO ALBUM NGHE NHẠC YÊU THÍCH - LƯU TRỮ VÀ SỬ DỤNG TẤT CẢ NHẠC TRONG MÁY CUA BẠN - NHIỀU TÍNH NĂNG KHÁC. HÃY TẢI VÀ TRẢI NGHIỆM . \nMột số hình ảnh về phần mềm :\n"
 },
 {
-"type":"Xem Bói",
-"name":"XEM BÓI TỔNG HỢP TÌNH YÊU+TỬ VI",
-"linkappstore":"https://itunes.apple.com/vn/app/xem-boi-tong-hop/id867002195?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconxemboi.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/xemboi5.png?raw=true",
-"linkdes":"XEM BÓI, XEM TỬ VI ĐỂ BIẾT TRƯỚC TƯƠNG LAI,TRÁNH VẬN HẠN - SỰ NGHIỆP,CÔNG DANH THÀNH HAY BẠI ? - TÌNH YÊU,CUỘC SỐNG GIA ĐÌNH - SINH CON ĐẺ CÁI .  \nMột số hình ảnh về phần mềm :\n"
-},
-{
 "type":"Game trí nhớ",
 "name":"GAME TRÍ NHỚ-GAME TRÍ TUỆ",
 "linkappstore":"https://apps.apple.com/vn/app/memory-tap-tap/id824061925",

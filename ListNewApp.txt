@@ -54,6 +54,15 @@
 "linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
 },
 {
+"type":"Mind's Eye - Super Memory",
+"name":"Mind's Eye - Super Memory",
+"linkappstore":"https://apps.apple.com/vn/app/memory-tap-tap/id824061925",
+"linkggstore":"https://play.google.com/store/apps/details?id=com.gametrinhorn",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
 "type":"Dế mèn phiêu lưu ký",
 "name":"TRUYỆN TRANH DẾ MÈN CHO BÉ",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",

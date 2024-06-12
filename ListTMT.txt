@@ -3,7 +3,7 @@
 "type":"Dạy nấu ăn",
 "name":"DẠY NẤU ĂN - LÀM BÁNH",
 "linkappstore":"https://itunes.apple.com/vn/app/day-nau-lam-banh-cac-mon-ngon/id908613594?mt=8",
-"linkggstore":"https://play.google.com/store/apps/details?id=com.daynauan",
+"linkggstore":"https://drive.google.com/file/d/1V1egeeZ-DIXcTeXZB6Hakim46pNmzOi3/view",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan5.png?raw=true",
 "linkdes":"BẠN CẦN MỘT PHẦN MỀM DẠY NẤU ĂN THẬT CHI TIẾT,DẠY NẤU ĂN OFFLINE,CHIA SẺ CÁC MÓN ĂN , BẠN MUỐN TỰ MÌNH TẠO RA MÓN ĂN? PHẦN MỀM DẠY NẤU ĂN, LÀM BÁNH SẼ ĐÁP ỨNG TẤT CẢ ! \nMột số hình ảnh về phần mềm :\n"

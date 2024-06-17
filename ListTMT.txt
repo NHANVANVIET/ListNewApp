@@ -403,5 +403,23 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
 "linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dế mèn phiêu lưu ký",
+"name":"Tập 46",
+"linkappstore":"https://drive.google.com/file/d/12r1HvWx9sTzpw2wDylhFAGOeZWDXhBvE/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/12r1HvWx9sTzpw2wDylhFAGOeZWDXhBvE/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"CUỐN TRUYỆN TRANH MÀ TÔI THÍCH NHẤT THUỞ BÉ THƠ - DẾ MÈN PHIÊU LƯU KÝ - MỘT TÁC PHẨM TUYỆT VỜI CẢ VỀ VĂN HỌC VÀ Ý NGHĨA GIÁO DỤC - GIÚP TÔI LÀM NGƯỜI CÓ ÍCH - HÃY ĐỌC CHO CON BẠN NGHE VÀ CHO BÉ XEM TRANH CÁC CON VẬT TRONG PHẦN MỀM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Mind's Eye - Super Memory",
+"name":"Tập 47",
+"linkappstore":"https://drive.google.com/file/d/1larFvPKhT_4amDk4874-7f3vi8snYWS1/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1larFvPKhT_4amDk4874-7f3vi8snYWS1/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
 }
 ]}

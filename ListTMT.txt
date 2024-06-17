@@ -1,74 +1,407 @@
 {"ListNewApp":[
 {
 "type":"Dạy nấu ăn",
-"name":"DẠY NẤU ĂN - LÀM BÁNH",
-"linkappstore":"https://itunes.apple.com/vn/app/day-nau-lam-banh-cac-mon-ngon/id908613594?mt=8",
-"linkggstore":"https://drive.google.com/file/d/1V1egeeZ-DIXcTeXZB6Hakim46pNmzOi3/view",
+"name":"Tập 1",
+"linkappstore":"https://drive.google.com/file/d/1JPTsFh9Uqu8Jb38HhnpmeSDdD5Q1WFF9/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1JPTsFh9Uqu8Jb38HhnpmeSDdD5Q1WFF9/view?usp=sharing",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan5.png?raw=true",
 "linkdes":"BẠN CẦN MỘT PHẦN MỀM DẠY NẤU ĂN THẬT CHI TIẾT,DẠY NẤU ĂN OFFLINE,CHIA SẺ CÁC MÓN ĂN , BẠN MUỐN TỰ MÌNH TẠO RA MÓN ĂN? PHẦN MỀM DẠY NẤU ĂN, LÀM BÁNH SẼ ĐÁP ỨNG TẤT CẢ ! \nMột số hình ảnh về phần mềm :\n"
 },
 {
 "type":"Học TA Lite",
-"name":"HỌC TIẾNG ANH TỐT NHẤT",
-"linkappstore":"https://itunes.apple.com/vn/app/day-hoc-tieng-anh-hay-nhat/id804714551?mt=8",
-"linkggstore":"https://play.google.com/store/apps/details?id=com.nhanvanviet.hoctienganh",
+"name":"Tập 2",
+"linkappstore":"https://drive.google.com/file/d/11vL0LkCGTPaQstLqyb4aa6PEw4rSvZ1h/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/11vL0LkCGTPaQstLqyb4aa6PEw4rSvZ1h/view?usp=sharing",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconhocta.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta11.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta12.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta13.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta14.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta15.png?raw=true",
 "linkdes":"PHẦN MỀM HỌC TIẾNG ANH NGHE, NÓI, VIẾT ĐƯỢC TIẾNG ANH NHANH NHẤT VÀ DỄ NHẤT - KẾT HỢP TỪ ĐIỂN - GAME HỌC TIẾNG ANH - THI TIẾNG ANH. \nMột số hình ảnh về phần mềm :\n"
 },
 {
 "type":"Nhật ký",
-"name":"NHẬT KÝ BÍ MẬT",
-"linkappstore":"https://itunes.apple.com/vn/app/nhat-ky-luu-giu-ngay-yeu/id763202585?mt=8",
-"linkggstore":"0",
+"name":"Tập 3",
+"linkappstore":"https://drive.google.com/file/d/13dRP0l9EyFm0PuEV9z9yGhVMTU1Yt82J/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/13dRP0l9EyFm0PuEV9z9yGhVMTU1Yt82J/view?usp=sharing",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
 "linkdes":"CUỐN NHẬT KÝ BÍ MẬT LƯU GIỮ GHI CHÚ HÀNG NGÀY CHIA SẺ VỚI MỌI NGƯỜI , LƯU THÔNG TIN CỦA BẠN BÈ NGƯỜI THÂN , SÁNG TẠO , CHỤP ẢNH ,VẼ TRANH ... \nMột số hình ảnh về phần mềm :\n"
 },
 {
 "type":"SoiKếtQuả",
-"name":"SOI KẾT QUẢ TÍNH SỐ RA MIỀN BẮC",
-"linkappstore":"https://itunes.apple.com/vn/app/soi-ket-qua-tinh-so-ra-cap/id1094931943?mt=8",
-"linkggstore":"https://play.google.com/store/apps/details?id=com.lychee.rnsoikq",
+"name":"Tập 4",
+"linkappstore":"https://drive.google.com/file/d/1m5Lp9VZMl1XEAeDvzcBsOcyKkpsmn2Jh/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1m5Lp9VZMl1XEAeDvzcBsOcyKkpsmn2Jh/view?usp=sharing",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconsoikq.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq5.png?raw=true",
 "linkdes":"SOI KẾT QUẢ XỔ SỐ MIỀN BẮC - TÍNH TOÁN CON SỐ SẼ RA CHỈ VỚI 1 CLICK - LƯU TRỮ DỮ LIỆU-CẬP NHẬT KẾT QUẢ-SOI CẦU - SOI CON SỐ GAN LÂU NGÀY CHƯA RA ...\nMột số hình ảnh về phần mềm :\n"
 },
 {
 "type":"AlbumTimer",
-"name":"TẠO ALBUM NHẠC - NGHE HẸN GIỜ",
-"linkappstore":"https://itunes.apple.com/vn/app/create-album-music-sleep-timer/id1130635299?mt=8",
-"linkggstore":"0",
+"name":"Tập 5",
+"linkappstore":"https://drive.google.com/file/d/1kzme2ncb8wAwVE1epx75l31KTLfeWqrz/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1kzme2ncb8wAwVE1epx75l31KTLfeWqrz/view?usp=sharing",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum4.png?raw=true",
 "linkdes":"ỨNG DỤNG NGHE NHẠC HẸN GIỜ NGỦ TỐT NHẤT - TẠO ALBUM NGHE NHẠC YÊU THÍCH - LƯU TRỮ VÀ SỬ DỤNG TẤT CẢ NHẠC TRONG MÁY CUA BẠN - NHIỀU TÍNH NĂNG KHÁC. HÃY TẢI VÀ TRẢI NGHIỆM . \nMột số hình ảnh về phần mềm :\n"
 },
 {
 "type":"Game trí nhớ",
-"name":"GAME TRÍ NHỚ-GAME TRÍ TUỆ",
-"linkappstore":"https://apps.apple.com/vn/app/memory-tap-tap/id824061925",
-"linkggstore":"0",
+"name":"Tập 6",
+"linkappstore":"https://drive.google.com/file/d/1Or8mhrYb-ud7KvRlmTwpts7Y5DBYmbcS/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1Or8mhrYb-ud7KvRlmTwpts7Y5DBYmbcS/view?usp=sharing",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
 "linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
 },
 {
 "type":"Mind's Eye - Super Memory",
-"name":"Mind's Eye - Super Memory",
-"linkappstore":"https://apps.apple.com/vn/app/memory-tap-tap/id824061925",
-"linkggstore":"https://play.google.com/store/apps/details?id=com.gametrinhorn",
+"name":"Tập 7",
+"linkappstore":"https://drive.google.com/file/d/1gKS6iIG8dRMjdx7z2lQtlPgjJAh-XHFc/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1gKS6iIG8dRMjdx7z2lQtlPgjJAh-XHFc/view?usp=sharing",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
 "linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
 },
 {
 "type":"Dế mèn phiêu lưu ký",
-"name":"TRUYỆN TRANH DẾ MÈN CHO BÉ",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkggstore":"0",
+"name":"Tập 8",
+"linkappstore":"https://drive.google.com/file/d/1vR_ozEqShQ-PAQolQCZwUWb0-5TNEP3p/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1vR_ozEqShQ-PAQolQCZwUWb0-5TNEP3p/view?usp=sharing",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"CUỐN TRUYỆN TRANH MÀ TÔI THÍCH NHẤT THUỞ BÉ THƠ - DẾ MÈN PHIÊU LƯU KÝ - MỘT TÁC PHẨM TUYỆT VỜI CẢ VỀ VĂN HỌC VÀ Ý NGHĨA GIÁO DỤC - GIÚP TÔI LÀM NGƯỜI CÓ ÍCH - HÃY ĐỌC CHO CON BẠN NGHE VÀ CHO BÉ XEM TRANH CÁC CON VẬT TRONG PHẦN MỀM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dạy nấu ăn",
+"name":"Tập 9",
+"linkappstore":"https://drive.google.com/file/d/1SPhc5cvoC73ZzYBzS5ORDkzYIgh5tSge/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1SPhc5cvoC73ZzYBzS5ORDkzYIgh5tSge/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan5.png?raw=true",
+"linkdes":"BẠN CẦN MỘT PHẦN MỀM DẠY NẤU ĂN THẬT CHI TIẾT,DẠY NẤU ĂN OFFLINE,CHIA SẺ CÁC MÓN ĂN , BẠN MUỐN TỰ MÌNH TẠO RA MÓN ĂN? PHẦN MỀM DẠY NẤU ĂN, LÀM BÁNH SẼ ĐÁP ỨNG TẤT CẢ ! \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Học TA Lite",
+"name":"Tập 10",
+"linkappstore":"https://drive.google.com/file/d/1IGMtRUewoI4gzSU2-aVvC6g9GDtNkE-j/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1IGMtRUewoI4gzSU2-aVvC6g9GDtNkE-j/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconhocta.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta11.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta12.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta13.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta14.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta15.png?raw=true",
+"linkdes":"PHẦN MỀM HỌC TIẾNG ANH NGHE, NÓI, VIẾT ĐƯỢC TIẾNG ANH NHANH NHẤT VÀ DỄ NHẤT - KẾT HỢP TỪ ĐIỂN - GAME HỌC TIẾNG ANH - THI TIẾNG ANH. \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Nhật ký",
+"name":"Tập 11",
+"linkappstore":"https://drive.google.com/file/d/1J_Tgbe5E0FsNL_6jYaqlYRAirFZ60HlV/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1J_Tgbe5E0FsNL_6jYaqlYRAirFZ60HlV/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
+"linkdes":"CUỐN NHẬT KÝ BÍ MẬT LƯU GIỮ GHI CHÚ HÀNG NGÀY CHIA SẺ VỚI MỌI NGƯỜI , LƯU THÔNG TIN CỦA BẠN BÈ NGƯỜI THÂN , SÁNG TẠO , CHỤP ẢNH ,VẼ TRANH ... \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"SoiKếtQuả",
+"name":"Tập 12",
+"linkappstore":"https://drive.google.com/file/d/1FuOLUqyplfpZXZdtotY2rAHTU6BXLEpc/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1FuOLUqyplfpZXZdtotY2rAHTU6BXLEpc/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconsoikq.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq5.png?raw=true",
+"linkdes":"SOI KẾT QUẢ XỔ SỐ MIỀN BẮC - TÍNH TOÁN CON SỐ SẼ RA CHỈ VỚI 1 CLICK - LƯU TRỮ DỮ LIỆU-CẬP NHẬT KẾT QUẢ-SOI CẦU - SOI CON SỐ GAN LÂU NGÀY CHƯA RA ...\nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"AlbumTimer",
+"name":"Tập 13",
+"linkappstore":"https://drive.google.com/file/d/1V1egeeZ-DIXcTeXZB6Hakim46pNmzOi3/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1V1egeeZ-DIXcTeXZB6Hakim46pNmzOi3/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum4.png?raw=true",
+"linkdes":"ỨNG DỤNG NGHE NHẠC HẸN GIỜ NGỦ TỐT NHẤT - TẠO ALBUM NGHE NHẠC YÊU THÍCH - LƯU TRỮ VÀ SỬ DỤNG TẤT CẢ NHẠC TRONG MÁY CUA BẠN - NHIỀU TÍNH NĂNG KHÁC. HÃY TẢI VÀ TRẢI NGHIỆM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Game trí nhớ",
+"name":"Tập 14",
+"linkappstore":"https://drive.google.com/file/d/1Xde1-IhYuP2RghJG8KiA4UiYXEg2T6Fk/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1Xde1-IhYuP2RghJG8KiA4UiYXEg2T6Fk/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Mind's Eye - Super Memory",
+"name":"Tập 15",
+"linkappstore":"https://drive.google.com/file/d/1NylxiC3sfmS_k2134iQD35sYPTOJTKkF/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1NylxiC3sfmS_k2134iQD35sYPTOJTKkF/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dế mèn phiêu lưu ký",
+"name":"Tập 16",
+"linkappstore":"https://drive.google.com/file/d/1HJNNcWXdgWxLB6_O_SGZ9XP7sk0qqBM4/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1HJNNcWXdgWxLB6_O_SGZ9XP7sk0qqBM4/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"CUỐN TRUYỆN TRANH MÀ TÔI THÍCH NHẤT THUỞ BÉ THƠ - DẾ MÈN PHIÊU LƯU KÝ - MỘT TÁC PHẨM TUYỆT VỜI CẢ VỀ VĂN HỌC VÀ Ý NGHĨA GIÁO DỤC - GIÚP TÔI LÀM NGƯỜI CÓ ÍCH - HÃY ĐỌC CHO CON BẠN NGHE VÀ CHO BÉ XEM TRANH CÁC CON VẬT TRONG PHẦN MỀM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dạy nấu ăn",
+"name":"Tập 17",
+"linkappstore":"https://drive.google.com/file/d/1Cnjq-i9FTeFhbMJkNYlAASMNA2lL2noH/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1Cnjq-i9FTeFhbMJkNYlAASMNA2lL2noH/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan5.png?raw=true",
+"linkdes":"BẠN CẦN MỘT PHẦN MỀM DẠY NẤU ĂN THẬT CHI TIẾT,DẠY NẤU ĂN OFFLINE,CHIA SẺ CÁC MÓN ĂN , BẠN MUỐN TỰ MÌNH TẠO RA MÓN ĂN? PHẦN MỀM DẠY NẤU ĂN, LÀM BÁNH SẼ ĐÁP ỨNG TẤT CẢ ! \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Học TA Lite",
+"name":"Tập 18",
+"linkappstore":"https://drive.google.com/file/d/1sbLzskZVHGRlNDlUJ9M0fzDUw_vEaifZ/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1sbLzskZVHGRlNDlUJ9M0fzDUw_vEaifZ/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconhocta.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta11.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta12.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta13.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta14.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta15.png?raw=true",
+"linkdes":"PHẦN MỀM HỌC TIẾNG ANH NGHE, NÓI, VIẾT ĐƯỢC TIẾNG ANH NHANH NHẤT VÀ DỄ NHẤT - KẾT HỢP TỪ ĐIỂN - GAME HỌC TIẾNG ANH - THI TIẾNG ANH. \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Nhật ký",
+"name":"Tập 19",
+"linkappstore":"https://drive.google.com/file/d/15t87lBW4f_SMlZSTzDxeLEhYRelNhY_l/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/15t87lBW4f_SMlZSTzDxeLEhYRelNhY_l/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
+"linkdes":"CUỐN NHẬT KÝ BÍ MẬT LƯU GIỮ GHI CHÚ HÀNG NGÀY CHIA SẺ VỚI MỌI NGƯỜI , LƯU THÔNG TIN CỦA BẠN BÈ NGƯỜI THÂN , SÁNG TẠO , CHỤP ẢNH ,VẼ TRANH ... \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"SoiKếtQuả",
+"name":"Tập 20",
+"linkappstore":"https://drive.google.com/file/d/1Gqh5EUkpD_0F0jeSOYDfO4CNco0NzeBh/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1Gqh5EUkpD_0F0jeSOYDfO4CNco0NzeBh/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconsoikq.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq5.png?raw=true",
+"linkdes":"SOI KẾT QUẢ XỔ SỐ MIỀN BẮC - TÍNH TOÁN CON SỐ SẼ RA CHỈ VỚI 1 CLICK - LƯU TRỮ DỮ LIỆU-CẬP NHẬT KẾT QUẢ-SOI CẦU - SOI CON SỐ GAN LÂU NGÀY CHƯA RA ...\nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"AlbumTimer",
+"name":"Tập 21",
+"linkappstore":"https://drive.google.com/file/d/1PRZbv9MfHRNKcWrKydsaus20KftcvefO/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1PRZbv9MfHRNKcWrKydsaus20KftcvefO/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum4.png?raw=true",
+"linkdes":"ỨNG DỤNG NGHE NHẠC HẸN GIỜ NGỦ TỐT NHẤT - TẠO ALBUM NGHE NHẠC YÊU THÍCH - LƯU TRỮ VÀ SỬ DỤNG TẤT CẢ NHẠC TRONG MÁY CUA BẠN - NHIỀU TÍNH NĂNG KHÁC. HÃY TẢI VÀ TRẢI NGHIỆM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Game trí nhớ",
+"name":"Tập 22",
+"linkappstore":"https://drive.google.com/file/d/10YI9Po0sH4nzY2k3PNbnvHPWCiv3a3HN/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/10YI9Po0sH4nzY2k3PNbnvHPWCiv3a3HN/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Mind's Eye - Super Memory",
+"name":"Tập 23",
+"linkappstore":"https://drive.google.com/file/d/1RQomrWOwGNjqY07nSUD1fanbAcWn3LxL/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1RQomrWOwGNjqY07nSUD1fanbAcWn3LxL/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dế mèn phiêu lưu ký",
+"name":"Tập 24",
+"linkappstore":"https://drive.google.com/file/d/1anmExvgBIwhXoI8-r79h9lCB1ToRRbjl/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1anmExvgBIwhXoI8-r79h9lCB1ToRRbjl/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"CUỐN TRUYỆN TRANH MÀ TÔI THÍCH NHẤT THUỞ BÉ THƠ - DẾ MÈN PHIÊU LƯU KÝ - MỘT TÁC PHẨM TUYỆT VỜI CẢ VỀ VĂN HỌC VÀ Ý NGHĨA GIÁO DỤC - GIÚP TÔI LÀM NGƯỜI CÓ ÍCH - HÃY ĐỌC CHO CON BẠN NGHE VÀ CHO BÉ XEM TRANH CÁC CON VẬT TRONG PHẦN MỀM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dạy nấu ăn",
+"name":"Tập 25",
+"linkappstore":"https://drive.google.com/file/d/11odY4shdYgrtDbxqZwJIPIzoRBdVact1/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/11odY4shdYgrtDbxqZwJIPIzoRBdVact1/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan5.png?raw=true",
+"linkdes":"BẠN CẦN MỘT PHẦN MỀM DẠY NẤU ĂN THẬT CHI TIẾT,DẠY NẤU ĂN OFFLINE,CHIA SẺ CÁC MÓN ĂN , BẠN MUỐN TỰ MÌNH TẠO RA MÓN ĂN? PHẦN MỀM DẠY NẤU ĂN, LÀM BÁNH SẼ ĐÁP ỨNG TẤT CẢ ! \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Học TA Lite",
+"name":"Tập 26",
+"linkappstore":"https://drive.google.com/file/d/1aaDiGW5GLhmSj6QIvkFL-3YyoiMh14VU/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1aaDiGW5GLhmSj6QIvkFL-3YyoiMh14VU/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconhocta.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta11.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta12.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta13.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta14.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta15.png?raw=true",
+"linkdes":"PHẦN MỀM HỌC TIẾNG ANH NGHE, NÓI, VIẾT ĐƯỢC TIẾNG ANH NHANH NHẤT VÀ DỄ NHẤT - KẾT HỢP TỪ ĐIỂN - GAME HỌC TIẾNG ANH - THI TIẾNG ANH. \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Nhật ký",
+"name":"Tập 27",
+"linkappstore":"https://drive.google.com/file/d/1KBTGuXCnQQk5jOh1giR8BORz_ZFLIHJc/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1KBTGuXCnQQk5jOh1giR8BORz_ZFLIHJc/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
+"linkdes":"CUỐN NHẬT KÝ BÍ MẬT LƯU GIỮ GHI CHÚ HÀNG NGÀY CHIA SẺ VỚI MỌI NGƯỜI , LƯU THÔNG TIN CỦA BẠN BÈ NGƯỜI THÂN , SÁNG TẠO , CHỤP ẢNH ,VẼ TRANH ... \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"SoiKếtQuả",
+"name":"Tập 28",
+"linkappstore":"https://drive.google.com/file/d/1AiVwSAwOmeSHSFVVsAiu0_yf9DL9vhWP/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1AiVwSAwOmeSHSFVVsAiu0_yf9DL9vhWP/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconsoikq.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq5.png?raw=true",
+"linkdes":"SOI KẾT QUẢ XỔ SỐ MIỀN BẮC - TÍNH TOÁN CON SỐ SẼ RA CHỈ VỚI 1 CLICK - LƯU TRỮ DỮ LIỆU-CẬP NHẬT KẾT QUẢ-SOI CẦU - SOI CON SỐ GAN LÂU NGÀY CHƯA RA ...\nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"AlbumTimer",
+"name":"Tập 29",
+"linkappstore":"https://drive.google.com/file/d/1waatUVrwvmcpnwWCqTVowMSZ9M64y_1g/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1waatUVrwvmcpnwWCqTVowMSZ9M64y_1g/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum4.png?raw=true",
+"linkdes":"ỨNG DỤNG NGHE NHẠC HẸN GIỜ NGỦ TỐT NHẤT - TẠO ALBUM NGHE NHẠC YÊU THÍCH - LƯU TRỮ VÀ SỬ DỤNG TẤT CẢ NHẠC TRONG MÁY CUA BẠN - NHIỀU TÍNH NĂNG KHÁC. HÃY TẢI VÀ TRẢI NGHIỆM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Game trí nhớ",
+"name":"Tập 30",
+"linkappstore":"https://drive.google.com/file/d/10N_Oviio-YtIglhbg-n6a83ffCMvR837/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/10N_Oviio-YtIglhbg-n6a83ffCMvR837/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Mind's Eye - Super Memory",
+"name":"Tập 31",
+"linkappstore":"https://drive.google.com/file/d/15ZOzC9d2EcyAWILRQ3pYAkabHhWSAYI6/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/15ZOzC9d2EcyAWILRQ3pYAkabHhWSAYI6/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dế mèn phiêu lưu ký",
+"name":"Tập 32",
+"linkappstore":"https://drive.google.com/file/d/1_RzAycUv_Jyppz0VMkGVWO84gtBh9msH/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1_RzAycUv_Jyppz0VMkGVWO84gtBh9msH/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"CUỐN TRUYỆN TRANH MÀ TÔI THÍCH NHẤT THUỞ BÉ THƠ - DẾ MÈN PHIÊU LƯU KÝ - MỘT TÁC PHẨM TUYỆT VỜI CẢ VỀ VĂN HỌC VÀ Ý NGHĨA GIÁO DỤC - GIÚP TÔI LÀM NGƯỜI CÓ ÍCH - HÃY ĐỌC CHO CON BẠN NGHE VÀ CHO BÉ XEM TRANH CÁC CON VẬT TRONG PHẦN MỀM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dạy nấu ăn",
+"name":"Tập 33",
+"linkappstore":"https://drive.google.com/file/d/1lLeCiEk-V1U1dh9flVOfnXTin7Hs2nlz/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1lLeCiEk-V1U1dh9flVOfnXTin7Hs2nlz/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan5.png?raw=true",
+"linkdes":"BẠN CẦN MỘT PHẦN MỀM DẠY NẤU ĂN THẬT CHI TIẾT,DẠY NẤU ĂN OFFLINE,CHIA SẺ CÁC MÓN ĂN , BẠN MUỐN TỰ MÌNH TẠO RA MÓN ĂN? PHẦN MỀM DẠY NẤU ĂN, LÀM BÁNH SẼ ĐÁP ỨNG TẤT CẢ ! \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Học TA Lite",
+"name":"Tập 34",
+"linkappstore":"https://drive.google.com/file/d/1UAIA_62P4zqqjRawKvrAdrHQKGzP4JBI/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1UAIA_62P4zqqjRawKvrAdrHQKGzP4JBI/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconhocta.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta11.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta12.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta13.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta14.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta15.png?raw=true",
+"linkdes":"PHẦN MỀM HỌC TIẾNG ANH NGHE, NÓI, VIẾT ĐƯỢC TIẾNG ANH NHANH NHẤT VÀ DỄ NHẤT - KẾT HỢP TỪ ĐIỂN - GAME HỌC TIẾNG ANH - THI TIẾNG ANH. \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Nhật ký",
+"name":"Tập 35",
+"linkappstore":"https://drive.google.com/file/d/1S-85QpC97w1vjbpp9f06z0vJ97W3ntue/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1S-85QpC97w1vjbpp9f06z0vJ97W3ntue/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
+"linkdes":"CUỐN NHẬT KÝ BÍ MẬT LƯU GIỮ GHI CHÚ HÀNG NGÀY CHIA SẺ VỚI MỌI NGƯỜI , LƯU THÔNG TIN CỦA BẠN BÈ NGƯỜI THÂN , SÁNG TẠO , CHỤP ẢNH ,VẼ TRANH ... \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"SoiKếtQuả",
+"name":"Tập 36",
+"linkappstore":"https://drive.google.com/file/d/10mvtz4wY5txVvWLaiW800LWdVHatd3au/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/10mvtz4wY5txVvWLaiW800LWdVHatd3au/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconsoikq.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq5.png?raw=true",
+"linkdes":"SOI KẾT QUẢ XỔ SỐ MIỀN BẮC - TÍNH TOÁN CON SỐ SẼ RA CHỈ VỚI 1 CLICK - LƯU TRỮ DỮ LIỆU-CẬP NHẬT KẾT QUẢ-SOI CẦU - SOI CON SỐ GAN LÂU NGÀY CHƯA RA ...\nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"AlbumTimer",
+"name":"Tập 37",
+"linkappstore":"https://drive.google.com/file/d/1TmqfVN0tlJdqeJuKaIO8sO7UfSyvG9DP/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1TmqfVN0tlJdqeJuKaIO8sO7UfSyvG9DP/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum4.png?raw=true",
+"linkdes":"ỨNG DỤNG NGHE NHẠC HẸN GIỜ NGỦ TỐT NHẤT - TẠO ALBUM NGHE NHẠC YÊU THÍCH - LƯU TRỮ VÀ SỬ DỤNG TẤT CẢ NHẠC TRONG MÁY CUA BẠN - NHIỀU TÍNH NĂNG KHÁC. HÃY TẢI VÀ TRẢI NGHIỆM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Game trí nhớ",
+"name":"Tập 38",
+"linkappstore":"https://drive.google.com/file/d/1VYT84zVfOWJAFbv4tB2pLANklIsHir3o/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1VYT84zVfOWJAFbv4tB2pLANklIsHir3o/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Mind's Eye - Super Memory",
+"name":"Tập 39",
+"linkappstore":"https://drive.google.com/file/d/1C-vHZUqjWd8JQ3hRMom1jYbpLi3VDZSl/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1C-vHZUqjWd8JQ3hRMom1jYbpLi3VDZSl/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dế mèn phiêu lưu ký",
+"name":"Tập 40",
+"linkappstore":"https://drive.google.com/file/d/1n1L_Lx9UULfNdB2GJ6gp86nSlGOxMt-K/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1n1L_Lx9UULfNdB2GJ6gp86nSlGOxMt-K/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"CUỐN TRUYỆN TRANH MÀ TÔI THÍCH NHẤT THUỞ BÉ THƠ - DẾ MÈN PHIÊU LƯU KÝ - MỘT TÁC PHẨM TUYỆT VỜI CẢ VỀ VĂN HỌC VÀ Ý NGHĨA GIÁO DỤC - GIÚP TÔI LÀM NGƯỜI CÓ ÍCH - HÃY ĐỌC CHO CON BẠN NGHE VÀ CHO BÉ XEM TRANH CÁC CON VẬT TRONG PHẦN MỀM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Mind's Eye - Super Memory",
+"name":"Tập 41",
+"linkappstore":"https://drive.google.com/file/d/18LP4PPoe_B4bMH9hIyyYaaQQMijlNbSV/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/18LP4PPoe_B4bMH9hIyyYaaQQMijlNbSV/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dế mèn phiêu lưu ký",
+"name":"Tập 42",
+"linkappstore":"https://drive.google.com/file/d/1DCNxIlHEdXRwCOJkkNDXEEsgJU4qkE23/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1DCNxIlHEdXRwCOJkkNDXEEsgJU4qkE23/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"CUỐN TRUYỆN TRANH MÀ TÔI THÍCH NHẤT THUỞ BÉ THƠ - DẾ MÈN PHIÊU LƯU KÝ - MỘT TÁC PHẨM TUYỆT VỜI CẢ VỀ VĂN HỌC VÀ Ý NGHĨA GIÁO DỤC - GIÚP TÔI LÀM NGƯỜI CÓ ÍCH - HÃY ĐỌC CHO CON BẠN NGHE VÀ CHO BÉ XEM TRANH CÁC CON VẬT TRONG PHẦN MỀM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Mind's Eye - Super Memory",
+"name":"Tập 43",
+"linkappstore":"https://drive.google.com/file/d/1x5RI4NE-Jx6vscxaHRsRevNjV9TUwHoi/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1x5RI4NE-Jx6vscxaHRsRevNjV9TUwHoi/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Dế mèn phiêu lưu ký",
+"name":"Tập 44",
+"linkappstore":"https://drive.google.com/file/d/1pno93Ei1WuGD39NxxKnKZK-zmGZqLckB/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1pno93Ei1WuGD39NxxKnKZK-zmGZqLckB/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"CUỐN TRUYỆN TRANH MÀ TÔI THÍCH NHẤT THUỞ BÉ THƠ - DẾ MÈN PHIÊU LƯU KÝ - MỘT TÁC PHẨM TUYỆT VỜI CẢ VỀ VĂN HỌC VÀ Ý NGHĨA GIÁO DỤC - GIÚP TÔI LÀM NGƯỜI CÓ ÍCH - HÃY ĐỌC CHO CON BẠN NGHE VÀ CHO BÉ XEM TRANH CÁC CON VẬT TRONG PHẦN MỀM . \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Mind's Eye - Super Memory",
+"name":"Tập 45",
+"linkappstore":"https://drive.google.com/file/d/11kr-seY5HQL4MUZZky7hVyaz31QXRrOj/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/11kr-seY5HQL4MUZZky7hVyaz31QXRrOj/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
 }
 ]}

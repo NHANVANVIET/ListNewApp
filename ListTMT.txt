@@ -93,7 +93,7 @@
 "type":"Nhật ký",
 "name":"Tập 11",
 "linkappstore":"https://drive.google.com/file/d/1J_Tgbe5E0FsNL_6jYaqlYRAirFZ60HlV/view?usp=sharing",
-"linkggstore":"https://drive.google.com/file/d/1J_Tgbe5E0FsNL_6jYaqlYRAirFZ60HlV/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1q5RiQneRHJpt1kF6SxzzwWH9FEP-6bhg/view?usp=sharing",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
 "linkdes":"CUỐN NHẬT KÝ BÍ MẬT LƯU GIỮ GHI CHÚ HÀNG NGÀY CHIA SẺ VỚI MỌI NGƯỜI , LƯU THÔNG TIN CỦA BẠN BÈ NGƯỜI THÂN , SÁNG TẠO , CHỤP ẢNH ,VẼ TRANH ... \nMột số hình ảnh về phần mềm :\n"

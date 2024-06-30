@@ -502,5 +502,14 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
 "linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
+},
+{
+"type":"Mind's Eye - Super Memory",
+"name":"Tập 57",
+"linkappstore":"https://drive.google.com/file/d/1v1nke0g60NTz9ys8LnS95UhVKzML9Dd7/view?usp=sharing",
+"linkggstore":"https://drive.google.com/file/d/1v1nke0g60NTz9ys8LnS95UhVKzML9Dd7/view?usp=sharing",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/IconMindeye.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/mindeye5.png?raw=true",
+"linkdes":"BẠN MUỐN KIỂM TRA TRÍ THÔNG MINH CỦA MÌNH ? - BẠN MUỐN MỘT TRÒ CHƠI CHO CẢ NGƯỜI LỚN VÀ TRẺ EM ? - BẠN MUỐN SO SÁNH TRÍ THÔNG MINH VỚI MỌI NGƯỜI ? - MỘT TRÒ CHƠI NHANH GỌN TIỆN LỢI THƯ GIÃN MỌI LÚC ?  \nMột số hình ảnh về phần mềm :\n"
 }
 ]}
